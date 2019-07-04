@@ -1,0 +1,4 @@
+up =80BF53AC
+down=80BF4BB4
+right=80BF837C
+left=80BF9966
